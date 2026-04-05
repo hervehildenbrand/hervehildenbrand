@@ -53,7 +53,6 @@ Real-time BGP prefix monitoring and anomaly detection tool built in Go.
 
 ## 🎤 Speaking & Community
 
-- **NANOG** — Invited speaker (upcoming) on backbone architecture and network automation
 - **LinkedIn Technical Writing** — 17 deep-dive articles reaching 3,200+ followers in 4 months, covering backbone design, BGP optimization, DDoS defense, and engineering leadership
 - **Open Source Adoption** — gtrace integrated into third-party automation platforms; bgp-explorer used by network operations teams globally
 
